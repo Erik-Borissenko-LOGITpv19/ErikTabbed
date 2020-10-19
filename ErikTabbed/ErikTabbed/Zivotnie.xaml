@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ErikTabbed.Zivotnie"
+            Title="Лесные животные">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="Заяц" >
+        <Image Source="Zajats.jpg">
+        </Image>
+    </ContentPage>
+    <ContentPage Title="Ежик" >
+        <Image Source="Ezik.jpg">
+        </Image>
+    </ContentPage>
+    <ContentPage Title="Олень" >
+        <Image Source="Olen.jpg">
+        </Image>
+    </ContentPage>
+    <ContentPage Title="Лось" >
+        <Image Source="Los.jpg">
+        </Image>
+    </ContentPage>
+    <ContentPage Title="Косуля" >
+        <Image Source="Kosyl.jpg">
+        </Image>
+    </ContentPage>
+    <ContentPage Title="Енот" >
+        <Image Source="Ehot.jpg">
+        </Image>
+    </ContentPage>
+        <ContentPage Title="Медведь" >
+        <Image Source="Medved.jpg"/>
+    </ContentPage>
+    <ContentPage Title="Сова" >
+        <Image Source="Sova.jpg">
+        </Image>
+    </ContentPage>
+    <ContentPage Title="Волк" >
+        <Image Source="Volk.jpg">
+        </Image>
+    </ContentPage>
+    <ContentPage Title="Белка" >
+        <Image Source="Belka.jpg">
+        </Image>
+    </ContentPage>
+    <ContentPage Title="Лиса" >
+        <Image Source="Lisa1.jpg">
+        </Image>
+    </ContentPage>
+
+</TabbedPage>

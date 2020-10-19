@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ErikTabbed.Morskie"
+            Title="Морские животные">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="Акула" >
+        <Image Source="Akula.jpg">
+        </Image>
+    </ContentPage>
+    <ContentPage Title="Касатка" >
+                <Image Source="Kasatka.jpg">
+                </Image>
+            </ContentPage>
+            <ContentPage Title="Медуза"  >
+                <Image Source="Meduza.jpg">
+                </Image>
+            </ContentPage>
+            <ContentPage Title="Краб"  >
+                <Image Source="Krab.jpg">
+                </Image>
+            </ContentPage>
+            <ContentPage Title="Рыба-молот"  >
+                <Image Source="Molot.jpg">
+                </Image>
+            </ContentPage>
+            <ContentPage Title="Рыба-меч"  >
+                <Image Source="mets.jpg">
+                </Image>
+            </ContentPage>
+            <ContentPage Title="Дельфин"  >
+                <Image Source="Delfin.jpg">
+                </Image>
+            </ContentPage>
+            <ContentPage Title="Пиранья"  >
+                <Image Source="Piranja.jpg">
+                </Image>
+            </ContentPage>
+            <ContentPage Title="Рак"  >
+                <Image Source="Rak.jpg">
+                </Image>
+            </ContentPage>
+            <ContentPage Title="Морской конек"  >
+                <Image Source="Konek.jpg">
+                </Image>
+            </ContentPage>
+            <ContentPage Title="Кальмар"  >
+                <Image Source="Kalmar.jpg">
+                </Image>
+            </ContentPage>
+    <ContentPage Title="Кит"  >
+        <Image Source="Kit.jpg">
+        </Image>
+    </ContentPage>
+</TabbedPage>
